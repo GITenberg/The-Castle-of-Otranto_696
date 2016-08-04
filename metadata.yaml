@@ -1,0 +1,66 @@
+_repo: The-Castle-of-Otranto_696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Horace
+    aliases:
+    - Marshall, William
+    - Walpole, Horatio
+    - Muralto, Onuphrio
+    - Orford, Horace Walpole, Earl of
+    birthdate: 1717
+    deathdate: 1797
+    gutenberg_agent_id: '358'
+    url: http://www.gutenberg.org/2009/agents/358
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: "The Castle of Otranto is a 1764 novel by Horace Walpole. It is generally\
+  \ regarded as the first gothic novel, initiating a literary genre which would become\
+  \ extremely popular in the later 18th century and early 19th century, with authors\
+  \ such as Charles Maturin, Ann Radcliffe, Bram Stoker, Edgar Allan Poe and Daphne\
+  \ du Maurier.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Gothic Fiction
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '696'
+  wikidata: Q548576
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+- GITenberg
+title: The Castle of Otranto
+url: http://www.gutenberg.org/ebooks/696
+wikipedia:
+- https://it.wikisource.org/wiki/Opera:Il_castello_di_Otranto
+- https://fi.wikipedia.org/wiki/Otranton_linna
+- https://fr.wikipedia.org/wiki/Le_Ch%C3%A2teau_d%27Otrante
+- https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D8%A9_%D8%A3%D9%88%D8%AA%D8%B1%D8%A7%D9%86%D8%AA%D9%88
+- https://nl.wikipedia.org/wiki/The_Castle_of_Otranto
+- https://pt.wikipedia.org/wiki/O_Castelo_de_Otranto
+- https://pl.wikipedia.org/wiki/Zamczysko_w_Otranto
+- https://eu.wikipedia.org/wiki/The_Castle_of_Otranto
+- https://de.wikipedia.org/wiki/Das_Schloss_von_Otranto
+- https://en.wikipedia.org/wiki/The_Castle_of_Otranto
+- https://es.wikipedia.org/wiki/El_castillo_de_Otranto
+- https://da.wikipedia.org/wiki/Slottet_i_Otranto
+- https://en.wikisource.org/wiki/The_Castle_of_Otranto
+- https://bg.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D1%8A%D0%BA%D1%8A%D1%82_%D0%9E%D1%82%D1%80%D0%B0%D0%BD%D1%82%D0%BE
+- https://commons.wikimedia.org/wiki/Category:The_Castle_of_Otranto
+- https://zh.wikipedia.org/wiki/%E5%A5%A7%E7%89%B9%E8%98%AD%E6%89%98%E5%A0%A1
+- https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9E%D1%82%D1%80%D0%B0%D0%BD%D1%82%D0%BE_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ca.wikipedia.org/wiki/The_Castle_of_Otranto
+- https://gl.wikipedia.org/wiki/O_castelo_de_Otranto
+- https://it.wikipedia.org/wiki/Il_castello_di_Otranto
