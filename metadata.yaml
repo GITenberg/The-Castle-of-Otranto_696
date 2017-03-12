@@ -1,5 +1,8 @@
 _repo: The-Castle-of-Otranto_696
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Walpole, Horace
@@ -25,6 +28,8 @@ description: "The Castle of Otranto is a 1764 novel by Horace Walpole. It is gen
   \ extremely popular in the later 18th century and early 19th century, with authors\
   \ such as Charles Maturin, Ann Radcliffe, Bram Stoker, Edgar Allan Poe and Daphne\
   \ du Maurier.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/696#The-Castle-of-Otranto
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
